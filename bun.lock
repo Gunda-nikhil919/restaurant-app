@@ -9,6 +9,7 @@
         "@testing-library/react": "11.2.5",
         "@testing-library/user-event": "12.6.2",
         "chalk": "4.1.0",
+        "js-cookie": "^3.0.8",
         "react": "17.0.1",
         "react-dom": "17.0.1",
         "react-icons": "4.2.0",
@@ -1726,6 +1727,8 @@
     "jest-watcher": ["jest-watcher@26.6.2", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/jest-watcher/-/jest-watcher-26.6.2.tgz", { "dependencies": { "@jest/test-result": "^26.6.2", "@jest/types": "^26.6.2", "@types/node": "*", "ansi-escapes": "^4.2.1", "chalk": "^4.0.0", "jest-util": "^26.6.2", "string-length": "^4.0.1" } }, "sha512-WKJob0P/Em2csiVthsI68p6aGKTIcsfjH9Gsx1f0A3Italz43e3ho0geSAVsmj09RWOELP1AZ/DXyJgOgDKxXQ=="],
 
     "jest-worker": ["jest-worker@27.5.1", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/jest-worker/-/jest-worker-27.5.1.tgz", { "dependencies": { "@types/node": "*", "merge-stream": "^2.0.0", "supports-color": "^8.0.0" } }, "sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg=="],
+
+    "js-cookie": ["js-cookie@3.0.8", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/js-cookie/-/js-cookie-3.0.8.tgz", {}, "sha512-yeJd4aNAdYZQjaon2bpD/Gb0B/omw7HQOsynXXcOiWVCacbBcPlgn8S/d1X6blFSaHao7ozqtW7NZW19xpCtIw=="],
 
     "js-levenshtein": ["js-levenshtein@1.1.6", "https://ccbp-ide-drops-110916805156.d.codeartifact.ap-south-1.amazonaws.com/npm/npm-store/js-levenshtein/-/js-levenshtein-1.1.6.tgz", {}, "sha512-X2BB11YZtrRqY4EnQcLX5Rh373zbK4alC1FW7D7MBhL2gtcC17cTnr6DmfHZeS0s2rTHjUTMMHfG7gO8SSdw+g=="],
 
